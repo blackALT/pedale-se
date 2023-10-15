@@ -4,6 +4,8 @@ Projeto da disciplina Atividade Extensionista III do curso de Engenharia da Comp
 
 ![pedale-se logo](logo-no-background.png =100x20)
 
+<img src="logo-no-background.png" width="200" height="200" />
+
 Com o objetivo de ajudar a reduzir os impactos ambientais e sociais que são gerados em consequência da emissão excessiva de poluentes. Este projeto busca conscientizar e incentivar a população a utilizar bicicletas como meio de transporte. 
 
 **Palavras-chave**: ciclismo, sustentabilidade; combate à emissão de gases poluentes.
