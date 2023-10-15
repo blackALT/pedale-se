@@ -2,7 +2,7 @@
 Pedale-Se: uma proposta de aplicativo para incentivar o ciclismo sustentável.
 Projeto da disciplina Atividade Extensionista III do curso de Engenharia da Computação da Escola Superior Politécnica da UNINTER.
 
-![pedale-se logo](logo-no-background.png)
+![pedale-se logo](logo-no-background.png =100x20)
 
 Com o objetivo de ajudar a reduzir os impactos ambientais e sociais que são gerados em consequência da emissão excessiva de poluentes. Este projeto busca conscientizar e incentivar a população a utilizar bicicletas como meio de transporte. 
 
