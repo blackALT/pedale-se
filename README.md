@@ -58,6 +58,7 @@ Pedale-se app
 Como atores principais no sistema, identifica-se o usuário principal, pessoa física e as empresas com e sem fins lucrativos. A interação ocorre da forma mostrada no diagrama abaixo, as  empresas vão poder interagir com a classe login e eventos, de formas distintas. Da mesma forma com a classe produtos, onde os usuários poderão conhecer e os empresários vão poder cadastrar.
 
 Diagrama de Caso de Uso
+<img src="diagrama.png" width="300" height="600" />
 
 ## Proposta do Projeto
 
@@ -69,8 +70,6 @@ Mesmo para os menores trajetos, onde uma caminhada seria o ideal, o transporte p
 
 Por fim destaca-se também nesse projeto seu caráter social. Durante a realização de eventos, é incentivado aos seus participantes a doação de recursos para ajudar instituições sociais com ênfase em lar de crianças carentes.
 
-## Aprendizados
-
 ## Contribuindo com o projeto
 
 1. Faça o fork do projeto
@@ -78,4 +77,3 @@ Por fim destaca-se também nesse projeto seu caráter social. Durante a realiza�
 3. Faça o commit (git commit -am 'Add some any')
 4. Push (git push origin feature/any)
 5. Crie um novo Pull Request
-
