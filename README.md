@@ -57,7 +57,6 @@ Pedale-se app
 
 Como atores principais no sistema, identifica-se o usuário principal, pessoa física e as empresas com e sem fins lucrativos. A interação ocorre da forma mostrada no diagrama abaixo, as  empresas vão poder interagir com a classe login e eventos, de formas distintas. Da mesma forma com a classe produtos, onde os usuários poderão conhecer e os empresários vão poder cadastrar.
 
-Diagrama de Caso de Uso
 <img src="diagrama.png"/>
 
 ## Proposta do Projeto
